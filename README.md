@@ -1,6 +1,6 @@
 # Chrome offline installer Script for Windows (CMD and PowerShell)
 
-Download Chrome Browsers latest Offline Installer for Windows (64-bit, 32-bit) and Linux
+Download Chrome Browsers latest Offline Installer files for Windows (64-bit, 32-bit) and Linux
 
 Step 1. Download the "[chrome-offline-installer.cmd](https://github.com/quickfever/chrome-offline-installer/releases/)" and save it somewhere on your computer.
 
